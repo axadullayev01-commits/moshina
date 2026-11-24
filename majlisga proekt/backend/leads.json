@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1778592599562,
+    "name": "saloxiddin",
+    "phone": "+98946075519",
+    "model": "Malibu 2",
+    "parts": [
+      {
+        "name": "Kapot",
+        "status": "repair"
+      },
+      {
+        "name": "Orqa bumper",
+        "status": "replace"
+      },
+      {
+        "name": "O'ng eshik",
+        "status": "paint"
+      }
+    ],
+    "total": 770,
+    "summary": "Language: UZ | Client: saloxiddin | Phone: +98946075519 | Model: Malibu 2 | Selected zones: Kapot: repair, Orqa bamper: replace, O'ng eshik: paint | Estimated total: $770",
+    "createdAt": "2026-05-12T13:29:59.562Z"
+  }
+]
